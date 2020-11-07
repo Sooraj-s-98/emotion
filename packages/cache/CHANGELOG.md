@@ -1,5 +1,11 @@
 # @emotion/cache
 
+## 11.0.0-rc.1
+
+### Patch Changes
+
+- [`6e157aa1`](https://github.com/emotion-js/emotion/commit/6e157aa198ac32d326d1aa1a921f459d880a8428) [#2042](https://github.com/emotion-js/emotion/pull/2042) Thanks [@Andarist](https://github.com/Andarist)! - Remove missing key error from production environments to cut down the bundlesize footprint.
+
 ## 11.0.0-rc.0
 
 ### Major Changes
